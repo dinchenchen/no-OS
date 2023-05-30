@@ -1,0 +1,5 @@
+<map id="adf4368_set_default_regs" name="adf4368_set_default_regs">
+<area shape="rect" id="node1" title="Applys a softreset, sets the SPI 4 wire mode and writes the default registers." alt="" coords="364,5,555,32"/>
+<area shape="rect" id="node2" href="$adf4368_8h.html#af94d88e987f76c849c92fb2aac7c9905" title="Initializes the adf4368." alt="" coords="213,5,316,32"/>
+<area shape="rect" id="node3" href="$adf4368_2src_2examples_2basic_2basic__example_8c.html#a72943dc9011d36293cb05ca5d7cb6899" title="Basic example main execution." alt="" coords="5,5,165,32"/>
+</map>

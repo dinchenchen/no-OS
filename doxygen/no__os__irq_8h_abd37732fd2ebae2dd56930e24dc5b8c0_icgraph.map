@@ -1,0 +1,25 @@
+<map id="no_os_irq_enable" name="no_os_irq_enable">
+<area shape="rect" id="node1" title="Enable specific interrupt." alt="" coords="831,348,965,375"/>
+<area shape="rect" id="node2" href="$ade9113_8h.html#af8aabfdefe73af0e1191fad0aa75cb05" title="DRDY inerrupt enable." alt="" coords="376,522,565,548"/>
+<area shape="rect" id="node4" href="$ad-acevsecrdset-sl_2src_2main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function execution for Maxim platform." alt="" coords="5,214,60,240"/>
+<area shape="rect" id="node5" href="$net_8c.html#ac3136f214a7023774a03531efb49eb77" title=" " alt="" coords="645,104,751,131"/>
+<area shape="rect" id="node6" href="$aducm3029__irq_8c.html#a7df5c7193f08701bc4392363a5b219da" title="Enable all previously enabled interrupts by no_os_irq_enable()." alt="" coords="613,156,783,197"/>
+<area shape="rect" id="node7" href="$ade7816_2src_2examples_2basic_2basic__example_8c.html#a72943dc9011d36293cb05ca5d7cb6899" title="Basic example main execution." alt="" coords="618,222,778,248"/>
+<area shape="rect" id="node8" href="$iio__trigger_8h.html#a371347a74184b128e62c6b1ec6d7207c" title="Enable system interrupt which is linked to the given trigger." alt="" coords="639,272,757,299"/>
+<area shape="rect" id="node9" href="$eval-ade7913_2src_2platform_2platform_8h.html#aac2d512681f800201bd2b7307ddc95fd" title="Init NVIC." alt="" coords="659,323,737,350"/>
+<area shape="rect" id="node11" href="$net_8c.html#a07fadf782270f861e72575c8d9c86c70" title=" " alt="" coords="641,374,755,400"/>
+<area shape="rect" id="node12" href="$no__os__dma_8c.html#a1d742ab0d931e445bd95ec52d99fd5c0" title="Acquire a channel and configure the list of transfers." alt="" coords="615,576,781,603"/>
+<area shape="rect" id="node16" href="$pilot_8h.html#a7e091d052ec1a86929f927ea9627fecd" title="Set pilot CP analog read interrupts." alt="" coords="616,424,780,451"/>
+<area shape="rect" id="node18" href="$self__test_8h.html#a190f7b376da6bd8788dec204bd18b0ca" title="Startup test for RCD." alt="" coords="645,475,751,502"/>
+<area shape="rect" id="node20" href="$self__test_8h.html#a467fec0e3bad53875d3b029d41f4446e" title="Running test for RCD." alt="" coords="390,163,551,190"/>
+<area shape="rect" id="node21" href="$stm32__tdm_8h.html#a056ca840bde6d6da60fc98ba6a3cdab5" title="Initialize the TDM communication peripheral." alt="" coords="636,627,760,654"/>
+<area shape="rect" id="node22" href="$swiot__fw_8h.html#a427f9beea005fab8fccd9774acb53fc3" title="IIO example main execution." alt="" coords="637,678,759,704"/>
+<area shape="rect" id="node3" href="$state__machine_8h.html#a92bc605df80f651e105fe804f43d615b" title="State machine main execution." alt="" coords="159,420,277,447"/>
+<area shape="rect" id="node10" href="$eval-ade7913_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="443,323,498,350"/>
+<area shape="rect" id="node13" href="$stm32__spi_8c.html#ab6cca445715be6bcb7bf563bf8388829" title="Configure and start a series of transfers using DMA." alt="" coords="383,573,559,614"/>
+<area shape="rect" id="node14" href="$stm32__spi_8c.html#adfcb8034a96850d7940dd91d67f273eb" title="Configure and start a series of transfers using DMA. Don&#39;t Wait for the completion before returning." alt="" coords="127,544,309,585"/>
+<area shape="rect" id="node15" href="$stm32__spi_8c.html#a8f89053d3059828cf294d3061322d974" title="Configure and start a series of transfers using DMA. Wait for the completion before returning." alt="" coords="108,610,328,636"/>
+<area shape="rect" id="node17" href="$pilot_8h.html#aedec5c4e1f1d4b7245a861b2de7e2332" title="Initialize pilot phase." alt="" coords="431,420,510,447"/>
+<area shape="rect" id="node19" href="$self__test_8h.html#a9440e0a0a3091dcda40b03efbb3acd55" title="Startup test." alt="" coords="405,471,536,498"/>
+<area shape="rect" id="node23" href="$swiot1l_2src_2platform_2maxim_2main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function." alt="" coords="443,678,498,704"/>
+</map>

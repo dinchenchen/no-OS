@@ -1,0 +1,112 @@
+<map id="include/no_os_pwm.h" name="include/no_os_pwm.h">
+<area shape="rect" id="node1" title="Header file of PWM Interface." alt="" coords="7621,5,7783,32"/>
+<area shape="rect" id="node2" href="$ad463x_8h.html" title="Header file of AD463x Driver." alt="" coords="245,87,391,129"/>
+<area shape="rect" id="node5" href="$ad463x__fmcz_2src_2common_2common__data_8c.html" title="Defines common data to be used by ad463x_fmcz examples." alt="" coords="163,295,377,337"/>
+<area shape="rect" id="node6" href="$ad469x_8h.html" title="Header file for ad469x Driver." alt="" coords="887,87,1034,129"/>
+<area shape="rect" id="node9" href="$ad469x__fmcz_2src_2common_2common__data_8c.html" title="Defines common data to be used by ad469x_fmcz examples." alt="" coords="593,295,808,337"/>
+<area shape="rect" id="node12" href="$ad738x_8c.html" title="Implementation of AD738x Driver." alt="" coords="1639,87,1786,129"/>
+<area shape="rect" id="node13" href="$ad7606_8h.html" title="Header file for the ad7606 Driver." alt="" coords="1810,87,1957,129"/>
+<area shape="rect" id="node19" href="$ad7606x-fmc_2src_2common__data_8c.html" title="Definitions of initialization parameters common for all project variants." alt="" coords="2072,191,2236,233"/>
+<area shape="rect" id="node20" href="$ad796x_8h.html" title="Header file of AD796X Driver." alt="" coords="2682,87,2829,129"/>
+<area shape="rect" id="node23" href="$ad796x__fmcz_2src_2common_2common__data_8c.html" title="Defines common data to be used by iio examples." alt="" coords="2605,295,2820,337"/>
+<area shape="rect" id="node26" href="$adaq7980_8h.html" title=" " alt="" coords="3425,87,3587,129"/>
+<area shape="rect" id="node28" href="$adaq7980__sdz_8c.html" title="Implementation of Main Function." alt="" coords="3421,191,3591,233"/>
+<area shape="rect" id="node29" href="$pulsar__adc_8h.html" title="Header file for pulsar_adc Driver." alt="" coords="5619,87,5758,129"/>
+<area shape="rect" id="node35" href="$pulsar-adc_2src_2common_2common__data_8c.html" title="Defines common data to be used by pulsar&#45;adc examples." alt="" coords="5085,295,5300,337"/>
+<area shape="rect" id="node37" href="$no__os__pwm_8c.html" title="Implementation of the PWM Interface." alt="" coords="6036,95,6219,121"/>
+<area shape="rect" id="node38" href="$axi__pwm_8c.html" title=" " alt="" coords="3616,191,3775,233"/>
+<area shape="rect" id="node39" href="$axi__pwm__extra_8h.html" title=" " alt="" coords="4148,87,4349,129"/>
+<area shape="rect" id="node44" href="$ad713x__fmc_8c.html" title="Implementation of Main Function." alt="" coords="4589,191,4754,233"/>
+<area shape="rect" id="node47" href="$ad7616__sdz_8c.html" title="Implementation of Main Function." alt="" coords="4779,191,4932,233"/>
+<area shape="rect" id="node48" href="$cn0561_8c.html" title="Implementation of Main Function." alt="" coords="4956,191,5104,233"/>
+<area shape="rect" id="node51" href="$max25603_8h.html" title="Header file of MAX25603 Driver." alt="" coords="6243,87,6407,129"/>
+<area shape="rect" id="node56" href="$aducm3029__pwm_8c.html" title="Implementation of aducm3029_pwm.c." alt="" coords="6431,87,6637,129"/>
+<area shape="rect" id="node57" href="$aducm3029__pwm_8h.html" title="Header file for aducm3029 pwm specifics." alt="" coords="6713,87,6920,129"/>
+<area shape="rect" id="node58" href="$iio__aducm3029_2src_2main_8c.html" title="Implementation of Main Function." alt="" coords="6744,191,6921,233"/>
+<area shape="rect" id="node59" href="$max32650_2maxim__pwm_8h.html" title="Maxim platform specific implementation PWM API." alt="" coords="6944,87,7140,129"/>
+<area shape="rect" id="node61" href="$max32655_2maxim__pwm_8h.html" title="Maxim platform specific implementation PWM API." alt="" coords="7164,87,7360,129"/>
+<area shape="rect" id="node63" href="$max32660_2maxim__pwm_8h.html" title="Maxim platform specific implementation PWM API." alt="" coords="7384,87,7580,129"/>
+<area shape="rect" id="node65" href="$max32665_2maxim__pwm_8h.html" title="Maxim platform specific implementation PWM API." alt="" coords="7604,87,7800,129"/>
+<area shape="rect" id="node67" href="$max32670_2maxim__pwm_8h.html" title="Maxim platform specific implementation PWM API." alt="" coords="7824,87,8020,129"/>
+<area shape="rect" id="node69" href="$max32690_2maxim__pwm_8h.html" title="Maxim platform specific implementation PWM API." alt="" coords="8044,87,8240,129"/>
+<area shape="rect" id="node71" href="$max78000_2maxim__pwm_8h.html" title="Maxim platform specific implementation PWM API." alt="" coords="8920,87,9116,129"/>
+<area shape="rect" id="node73" href="$eval-ade7880_2src_2main_8c.html" title="Main function of ADE7880 example." alt="" coords="8753,295,8920,337"/>
+<area shape="rect" id="node74" href="$eval-ade7880_2src_2platform_2platform_8h.html" title="Defines common data to be used by ADE7880 example project." alt="" coords="9572,191,9749,233"/>
+<area shape="rect" id="node76" href="$eval-ade7913_2src_2common_2common__data_8h.html" title="Defines common data to be used by ADE7913 example project." alt="" coords="8309,191,8524,233"/>
+<area shape="rect" id="node78" href="$eval-ade7913_2src_2main_8c.html" title="Main function of ADE7913 example." alt="" coords="8944,295,9111,337"/>
+<area shape="rect" id="node79" href="$eval-ade7913_2src_2platform_2platform_8h.html" title="Defines platform data to be used by ADE7913 example project." alt="" coords="9773,191,9951,233"/>
+<area shape="rect" id="node81" href="$eval-ade9000_2src_2main_8c.html" title="Main function of ADE9000 example." alt="" coords="7923,295,8089,337"/>
+<area shape="rect" id="node82" href="$eval-ade9000_2src_2platform_2platform_8h.html" title="Defines common data to be used by ADE9000 example project." alt="" coords="9975,191,10152,233"/>
+<area shape="rect" id="node84" href="$eval-ade9078_2src_2main_8c.html" title="Main function of ADE9078 example." alt="" coords="9135,295,9301,337"/>
+<area shape="rect" id="node85" href="$eval-ade9078_2src_2platform_2platform_8h.html" title="Defines common data to be used by ADE9078 example project." alt="" coords="8600,191,8777,233"/>
+<area shape="rect" id="node88" href="$eval-ade9153a_2src_2common_2common__data_8h.html" title="Defines common data to be used by ADE9153A example project." alt="" coords="10176,191,10391,233"/>
+<area shape="rect" id="node90" href="$eval-ade9153a_2src_2main_8c.html" title="Main function of ADE9153A example." alt="" coords="10415,191,10589,233"/>
+<area shape="rect" id="node93" href="$stm32__pwm_8c.html" title=" " alt="" coords="9445,87,9617,129"/>
+<area shape="rect" id="node94" href="$adp1050_8h.html" title="Header file for the ADP1050 Driver." alt="" coords="9642,87,9813,129"/>
+<area shape="rect" id="node99" href="$adp1050_2src_2common_2common__data_8h.html" title="Defines common data to be used by adp1050 examples." alt="" coords="11054,191,11246,233"/>
+<area shape="rect" id="node101" href="$adp1050_2src_2examples_2basic_2basic__example_8c.html" title="Basic example source file for adp1050 project." alt="" coords="11271,184,11437,240"/>
+<area shape="rect" id="node102" href="$lt7170_8c.html" title=" " alt="" coords="9939,87,10095,129"/>
+<area shape="rect" id="node103" href="$lt7182s_8c.html" title=" " alt="" coords="10119,87,10282,129"/>
+<area shape="rect" id="node104" href="$ltp8800_8c.html" title=" " alt="" coords="10307,87,10471,129"/>
+<area shape="rect" id="node105" href="$ad463x__fmcz_2src_2platform_2stm32_2parameters_8c.html" title="Definition of STM32 platform data used by ad463x_fmcz project." alt="" coords="10495,87,10735,129"/>
+<area shape="rect" id="node106" href="$ad738x__fmcz_2src_2common_2common__data_8c.html" title="Defines common data to be used by eval&#45;ad738x examples." alt="" coords="10760,87,10975,129"/>
+<area shape="rect" id="node107" href="$ad738x__fmcz_2src_2platform_2stm32_2parameters_8c.html" title="Definition of STM32 platform data used by eval&#45;ad738x project." alt="" coords="10999,87,11239,129"/>
+<area shape="rect" id="node108" href="$ltc4296_2src_2common_2common__data_8h.html" title="Defines common data to be used by ltc4296 examples." alt="" coords="11263,87,11455,129"/>
+<area shape="rect" id="node110" href="$ltc4296_2src_2examples_2basic_2basic__example_8c.html" title="Basic example source file for ltc4296 project." alt="" coords="11480,80,11647,136"/>
+<area shape="rect" id="node3" href="$ad463x_8c.html" title="Implementation of AD463x Driver." alt="" coords="245,191,391,233"/>
+<area shape="rect" id="node4" href="$ad463x__fmcz_2src_2common_2common__data_8h.html" title="Defines common data to be used by ad463x&#45;fmcz examples." alt="" coords="5,191,220,233"/>
+<area shape="rect" id="node7" href="$ad469x_8c.html" title="Implementation of ad69x Driver." alt="" coords="517,191,663,233"/>
+<area shape="rect" id="node8" href="$ad469x__fmcz_2src_2common_2common__data_8h.html" title="Defines common data to be used by ad469x_fmcz examples." alt="" coords="1200,191,1415,233"/>
+<area shape="rect" id="node10" href="$ad469x__fmcz_2src_2examples_2basic__example_2basic__example_8c.html" title="Implementation of Basic example." alt="" coords="739,184,953,240"/>
+<area shape="rect" id="node11" href="$ad469x__fmcz_2src_2examples_2iio__example_2iio__example_8c.html" title="Implementation of IIO example for ad469x_fmcz project." alt="" coords="978,184,1175,240"/>
+<area shape="rect" id="node14" href="$ad7606_8c.html" title="Implementation of ad7606 Driver." alt="" coords="1901,191,2047,233"/>
+<area shape="rect" id="node15" href="$iio__ad7606_8c.html" title="Implementation of AD7606 IIO interface." alt="" coords="1390,295,1537,337"/>
+<area shape="rect" id="node16" href="$iio__ad7606_8h.html" title="Header file for AD7606 IIO interface." alt="" coords="1490,191,1637,233"/>
+<area shape="rect" id="node17" href="$ad7606x-fmc_2src_2iio__example_8c.html" title="Implementation of an example with the IIO interface." alt="" coords="1581,295,1745,337"/>
+<area shape="rect" id="node18" href="$ad7606x-fmc_2src_2basic__example_8c.html" title="Implementation of a basic example." alt="" coords="1712,191,1876,233"/>
+<area shape="rect" id="node21" href="$ad796x_8c.html" title="Implementation of AD796X Driver." alt="" coords="2362,191,2509,233"/>
+<area shape="rect" id="node22" href="$ad796x__fmcz_2src_2common_2common__data_8h.html" title="Defines common data to be used by iio examples." alt="" coords="2995,191,3209,233"/>
+<area shape="rect" id="node24" href="$ad796x__fmcz_2src_2examples_2basic__example_2basic__example_8c.html" title="Implementation of BASIC example." alt="" coords="2533,184,2748,240"/>
+<area shape="rect" id="node25" href="$ad796x__fmcz_2src_2examples_2iio__example_2iio__example_8c.html" title="Implementation of IIO example for iio project." alt="" coords="2773,184,2970,240"/>
+<area shape="rect" id="node27" href="$adaq7980_8c.html" title="Implementation adaq7980 Driver." alt="" coords="3234,191,3397,233"/>
+<area shape="rect" id="node30" href="$iio__pulsar__adc_8c.html" title="Implementation of pulsar_adc IIO Driver." alt="" coords="5453,295,5613,337"/>
+<area shape="rect" id="node31" href="$iio__pulsar__adc_8h.html" title="Header file for PULSAR_ADC IIO interface." alt="" coords="5521,191,5683,233"/>
+<area shape="rect" id="node32" href="$pulsar-adc_2src_2examples_2iio__example_2iio__example_8c.html" title="IIO example header for eval&#45;pulsar_adc project." alt="" coords="5735,288,5933,344"/>
+<area shape="rect" id="node33" href="$pulsar__adc_8c.html" title="Implementation of pulsar_adc Driver." alt="" coords="5707,191,5846,233"/>
+<area shape="rect" id="node34" href="$pulsar-adc_2src_2common_2common__data_8h.html" title="Defines common data to be used by pulsar&#45;adc examples." alt="" coords="5231,191,5445,233"/>
+<area shape="rect" id="node36" href="$pulsar-adc_2src_2examples_2basic__example_2basic__example_8c.html" title="Implementation of IIO example for basic_demo project." alt="" coords="5920,184,6119,240"/>
+<area shape="rect" id="node40" href="$ad463x__fmcz_2src_2platform_2xilinx_2parameters_8h.html" title="Definitions specific to xilinx platform used by ad463x_fmcz project." alt="" coords="3850,184,4015,240"/>
+<area shape="rect" id="node42" href="$ad469x__fmcz_2src_2platform_2xilinx_2parameters_8h.html" title="Definitions specific to xilinx platform used by ad469x_fmcz project." alt="" coords="4039,184,4205,240"/>
+<area shape="rect" id="node45" href="$ad738x__fmcz_2src_2platform_2xilinx_2parameters_8h.html" title="Definitions specific to xilinx platform used by ad463x_fmcz project." alt="" coords="4229,184,4394,240"/>
+<area shape="rect" id="node49" href="$pulsar-adc_2src_2platform_2xilinx_2parameters_8h.html" title="Definitions specific to xilinx platform used by pulsar&#45;adc project." alt="" coords="4418,184,4565,240"/>
+<area shape="rect" id="node41" href="$ad463x__fmcz_2src_2platform_2xilinx_2parameters_8c.html" title="Definition of xilinx platform data used by ad463x_fmcz project." alt="" coords="3850,288,4015,344"/>
+<area shape="rect" id="node43" href="$ad469x__fmcz_2src_2platform_2xilinx_2parameters_8c.html" title="Definition of xilinx platform data used by ad469x_fmcz project." alt="" coords="4039,288,4205,344"/>
+<area shape="rect" id="node46" href="$ad738x__fmcz_2src_2platform_2xilinx_2parameters_8c.html" title="Definition of xilinx platform data used by ad463x_fmcz project." alt="" coords="4229,288,4394,344"/>
+<area shape="rect" id="node50" href="$pulsar-adc_2src_2platform_2xilinx_2parameters_8c.html" title="Definition of xilinx platform data used by pulsar&#45;adc project." alt="" coords="4418,288,4565,344"/>
+<area shape="rect" id="node52" href="$max25603_8c.html" title="Source file of MAX25603 Driver." alt="" coords="6339,191,6503,233"/>
+<area shape="rect" id="node53" href="$max25603_2src_2common_2common__data_8h.html" title="Common data used by the MAX25603 project." alt="" coords="6527,191,6719,233"/>
+<area shape="rect" id="node55" href="$max25603_2src_2examples_2basic_2basic__example_8c.html" title="Source file for basic example." alt="" coords="6143,184,6314,240"/>
+<area shape="rect" id="node54" href="$max25603_2src_2common_2common__data_8c.html" title="Common data used by the MAX25603 project." alt="" coords="6528,295,6719,337"/>
+<area shape="rect" id="node60" href="$max32650_2maxim__pwm_8c.html" title="Maxim platform specific implementation PWM API." alt="" coords="6946,191,7141,233"/>
+<area shape="rect" id="node62" href="$max32655_2maxim__pwm_8c.html" title="Maxim platform specific implementation PWM API." alt="" coords="7165,191,7359,233"/>
+<area shape="rect" id="node64" href="$max32660_2maxim__pwm_8c.html" title="Maxim platform specific implementation PWM API." alt="" coords="7383,191,7578,233"/>
+<area shape="rect" id="node66" href="$max32665_2maxim__pwm_8c.html" title="Maxim platform specific implementation PWM API." alt="" coords="7602,191,7797,233"/>
+<area shape="rect" id="node68" href="$max32670_2maxim__pwm_8c.html" title="Maxim platform specific implementation PWM API." alt="" coords="7821,191,8015,233"/>
+<area shape="rect" id="node70" href="$max32690_2maxim__pwm_8c.html" title="Maxim platform specific implementation PWM API." alt="" coords="8039,191,8234,233"/>
+<area shape="rect" id="node72" href="$max78000_2maxim__pwm_8c.html" title="Maxim platform specific implementation PWM API." alt="" coords="9055,191,9250,233"/>
+<area shape="rect" id="node91" href="$max25603_2src_2platform_2maxim_2parameters_8h.html" title="Definition of Maxim platform data used by MAX25603 project." alt="" coords="9275,191,9497,233"/>
+<area shape="rect" id="node75" href="$eval-ade7880_2src_2platform_2platform_8c.html" title="Defines common data to be used by ADE7880 example project." alt="" coords="9573,295,9749,337"/>
+<area shape="rect" id="node77" href="$eval-ade7913_2src_2common_2common__data_8c.html" title="Defines common data to be used by ADE7913 example project." alt="" coords="8113,295,8328,337"/>
+<area shape="rect" id="node80" href="$eval-ade7913_2src_2platform_2platform_8c.html" title="Defines platform data to be used by ADE7913 example project." alt="" coords="9774,295,9950,337"/>
+<area shape="rect" id="node83" href="$eval-ade9000_2src_2platform_2platform_8c.html" title="Defines common data to be used by ADE9000 example project." alt="" coords="9975,295,10151,337"/>
+<area shape="rect" id="node86" href="$interrupt_8c.html" title=" " alt="" coords="8553,295,8729,337"/>
+<area shape="rect" id="node87" href="$eval-ade9078_2src_2platform_2platform_8c.html" title="Defines common data to be used by ADE9078 example project." alt="" coords="8353,295,8529,337"/>
+<area shape="rect" id="node89" href="$eval-ade9153a_2src_2common_2common__data_8c.html" title="Defines common data to be used by ADE9153A example project." alt="" coords="10176,295,10391,337"/>
+<area shape="rect" id="node92" href="$max25603_2src_2platform_2maxim_2parameters_8c.html" title="Definition of Maxim platform data used by MAX25603 project." alt="" coords="9325,295,9548,337"/>
+<area shape="rect" id="node95" href="$adp1050_8c.html" title="Source file for the ADP1050 Driver." alt="" coords="10809,191,10979,233"/>
+<area shape="rect" id="node96" href="$iio__adp1050_8c.html" title="Source file for the ADP1050 IIO Driver." alt="" coords="10835,295,11006,337"/>
+<area shape="rect" id="node97" href="$iio__adp1050_8h.html" title="Header file for the ADP1050 IIO Driver." alt="" coords="10614,191,10785,233"/>
+<area shape="rect" id="node98" href="$adp1050_2src_2examples_2iio__example_2iio__example_8c.html" title="IIO example source file for adp1050 project." alt="" coords="10612,288,10787,344"/>
+<area shape="rect" id="node100" href="$adp1050_2src_2common_2common__data_8c.html" title="Defines common data to be used by adp1050 examples." alt="" coords="11055,295,11245,337"/>
+<area shape="rect" id="node109" href="$ltc4296_2src_2common_2common__data_8c.html" title="Defines common data to be used by ltc4296 examples." alt="" coords="11461,191,11652,233"/>
+</map>
